@@ -1,12 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>nadiology.co.za</title>
+    <title>nadiology</title>
     <link href="https://www.nadiology.co.za/feed.xml" rel="self" />
     <link href="https://www.nadiology.co.za" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2025-04-23T01:47:50+02:00</updated>
     <author>
         <name>Nadia Shmeleva</name>
     </author>
     <id>https://www.nadiology.co.za</id>
 
+    <entry>
+        <title>Homepage</title>
+        <author>
+            <name>Nadia Shmeleva</name>
+        </author>
+        <link href="https://www.nadiology.co.za/homepage.html"/>
+        <id>https://www.nadiology.co.za/homepage.html</id>
+
+        <updated>2025-04-23T01:47:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    NADIOLOGY™ The Art &amp; System of Cosmic Design You were not born at random. You carry a design — a map. A code. A sequence of patterns written in the stars, embedded in your soul, and unfolding in perfect timing. Nadiology™ is a diagnostic and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="homepage">
+<h1>NADIOLOGY™</h1>
+<p><em>The Art &amp; System of Cosmic Design</em></p>
+<h2>🌟 Unlock Your Cosmic Blueprint</h2>
+<p>You were not born at random. You carry a design — a map. A code. A sequence of patterns written in the stars, embedded in your soul, and unfolding in perfect timing.</p>
+<p><strong>Nadiology™</strong> is a diagnostic and timing system that brings together astrology, numerology, energetics, and ancient soul science to reveal who you are, why you're here, and when to act.</p>
+<p>It’s not just about your sign. It’s about your pattern.<br>It’s not just a reading. It’s a realignment.</p>
+<blockquote>“Your natal chart is your cosmic DNA. Nadiology helps you read it.”</blockquote>
+<ul>
+<li>🔹 Decode your unique natal matrix</li>
+<li>🔹 Discover your soul’s spiral timing cycles</li>
+<li>🔹 Align with your personal path of becoming</li>
+</ul>
+<p><strong>Ready to meet your map?</strong></p>
+<p><a href="/method/">Explore the Method</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRCBdWu32xQ8VEqNgAj-HKDUWkxbLON9koShxQDkPar1SFrg/viewform?usp=sharing" target="_blank" rel="noopener">Book a Session</a></p>
+<p><strong>Learn more at</strong> <a href="https://www.nadiology.co.za">www.nadiology.co.za</a></p>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Nadia Shmeleva</name>
+        </author>
+        <link href="https://www.nadiology.co.za/about-me.html"/>
+        <id>https://www.nadiology.co.za/about-me.html</id>
+
+        <updated>2025-04-23T01:42:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                    🔍 About Nadiology™ Nadiology™ is not just a method. It is a transmission. Two decades ago in Russia, I was introduced to a system called СПК (S.P.K.) — "The System Transmitted by the Cosmos." It came to a master astrologer in a dream, and she&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section id="about">
+<h2>🔍 About Nadiology™</h2>
+<p><strong>Nadiology™</strong> is not just a method. It is a transmission.</p>
+<p>Two decades ago in Russia, I was introduced to a system called <strong>СПК (S.P.K.)</strong> — <em>"The System Transmitted by the Cosmos."</em> It came to a master astrologer in a dream, and she devoted her life to decoding and refining what was given. I was one of the few students entrusted with this teaching.</p>
+<p>Since then, I have practiced and deepened this wisdom for over 20 years, integrating my studies in:</p>
+<ul>
+<li>Astrology (Western and Chinese)</li>
+<li>Numerology &amp; Digital Psychology</li>
+<li>Energetics, soul contracts, and timing</li>
+</ul>
+<p><strong>Nadiology™</strong> is the synthesis of it all — my life’s work and my soul’s remembrance. It is a living, intelligent system of personal design and cosmic navigation.</p>
+<p>This is astrology beyond personality. Beyond prediction. It is your soul’s map, made visible.</p>
+<p><a href="https://www.nadiology.co.za">www.nadiology.co.za</a></p>
+</section>
+            ]]>
+        </content>
+    </entry>
 </feed>

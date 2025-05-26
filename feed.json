@@ -1,14 +1,41 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "nadiology.co.za",
+    "title": "nadiology",
     "description": "",
     "home_page_url": "https://www.nadiology.co.za",
     "feed_url": "https://www.nadiology.co.za/feed.json",
     "user_comment": "",
-    "icon": "https://www.nadiology.co.za/media/website/Untitled-design-8.png",
     "author": {
         "name": "Nadia Shmeleva"
     },
     "items": [
+        {
+            "id": "https://www.nadiology.co.za/homepage.html",
+            "url": "https://www.nadiology.co.za/homepage.html",
+            "title": "Homepage",
+            "summary": "NADIOLOGY™ The Art &amp; System of Cosmic Design You were not born at random. You carry a design — a map. A code. A sequence of patterns written in the stars, embedded in your soul, and unfolding in perfect timing. Nadiology™ is a diagnostic and&hellip;",
+            "content_html": "<section id=\"homepage\">\n<h1>NADIOLOGY™</h1>\n<p><em>The Art &amp; System of Cosmic Design</em></p>\n<h2>🌟 Unlock Your Cosmic Blueprint</h2>\n<p>You were not born at random. You carry a design — a map. A code. A sequence of patterns written in the stars, embedded in your soul, and unfolding in perfect timing.</p>\n<p><strong>Nadiology™</strong> is a diagnostic and timing system that brings together astrology, numerology, energetics, and ancient soul science to reveal who you are, why you're here, and when to act.</p>\n<p>It’s not just about your sign. It’s about your pattern.<br>It’s not just a reading. It’s a realignment.</p>\n<blockquote>“Your natal chart is your cosmic DNA. Nadiology helps you read it.”</blockquote>\n<ul>\n<li>🔹 Decode your unique natal matrix</li>\n<li>🔹 Discover your soul’s spiral timing cycles</li>\n<li>🔹 Align with your personal path of becoming</li>\n</ul>\n<p><strong>Ready to meet your map?</strong></p>\n<p><a href=\"/method/\">Explore the Method</a> or <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdRCBdWu32xQ8VEqNgAj-HKDUWkxbLON9koShxQDkPar1SFrg/viewform?usp=sharing\" target=\"_blank\" rel=\"noopener\">Book a Session</a></p>\n<p><strong>Learn more at</strong> <a href=\"https://www.nadiology.co.za\">www.nadiology.co.za</a></p>\n</section>",
+            "author": {
+                "name": "Nadia Shmeleva"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-23T01:47:50+02:00",
+            "date_modified": "2025-04-23T01:47:50+02:00"
+        },
+        {
+            "id": "https://www.nadiology.co.za/about-me.html",
+            "url": "https://www.nadiology.co.za/about-me.html",
+            "title": "About Me",
+            "summary": "🔍 About Nadiology™ Nadiology™ is not just a method. It is a transmission. Two decades ago in Russia, I was introduced to a system called СПК (S.P.K.) — \"The System Transmitted by the Cosmos.\" It came to a master astrologer in a dream, and she&hellip;",
+            "content_html": "<section id=\"about\">\n<h2>🔍 About Nadiology™</h2>\n<p><strong>Nadiology™</strong> is not just a method. It is a transmission.</p>\n<p>Two decades ago in Russia, I was introduced to a system called <strong>СПК (S.P.K.)</strong> — <em>\"The System Transmitted by the Cosmos.\"</em> It came to a master astrologer in a dream, and she devoted her life to decoding and refining what was given. I was one of the few students entrusted with this teaching.</p>\n<p>Since then, I have practiced and deepened this wisdom for over 20 years, integrating my studies in:</p>\n<ul>\n<li>Astrology (Western and Chinese)</li>\n<li>Numerology &amp; Digital Psychology</li>\n<li>Energetics, soul contracts, and timing</li>\n</ul>\n<p><strong>Nadiology™</strong> is the synthesis of it all — my life’s work and my soul’s remembrance. It is a living, intelligent system of personal design and cosmic navigation.</p>\n<p>This is astrology beyond personality. Beyond prediction. It is your soul’s map, made visible.</p>\n<p><a href=\"https://www.nadiology.co.za\">www.nadiology.co.za</a></p>\n</section>",
+            "author": {
+                "name": "Nadia Shmeleva"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-23T01:42:12+02:00",
+            "date_modified": "2025-04-23T01:43:55+02:00"
+        }
     ]
 }
